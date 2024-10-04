@@ -8,20 +8,23 @@
 - Gambar2
   ![img 2](Screenshot/2.png)
 # 2. Mendeklarasikan CSS Internal
-- Gambar result
+- Gambar1
   ![img 3](Screenshot/3.png)
+- Gambar2
+   ![img 3](Screenshot/4.png)
 # 3. Menambahkan Inline CSS
 - Gambar1
   ![img 4](Screenshot/5.png)
-- Gambar result
-  ![img 5](Screenshot/4.png)
+- Gambar2
+  ![img 5](Screenshot/6.png)
 # 4. Membuat CSS Eksternal
-- Gambar result
-  ![img 6](Screenshot/6.png)
+- Gambar1
+  ![img 6](Screenshot/7.png)
+- Gambar2
+ ![img 7](Screenshot/8.png)
 # 5. Menambahkan CSS Selector
 - Gambar1
-  ![img 7](Screenshot/7.png)
+  ![img 7](Screenshot/9.png)
 - Gambar2
-  ![img 8](Screenshot/9.png)
-- Gambar result 1&2
-  ![img 9](Screenshot/10.png)
+  ![img 7](Screenshot/10.png)
+ 
