@@ -11,3 +11,10 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 #Jawaban
 
+2.  h1 {...} menargetkan semua elemen <h1> pada halaman.
+    intro h1 {...} menargetkan hanya elemen <h1> yang merupakan turunan dari elemen dengan ID intro.
+3.  Ketika beberapa deklarasi CSS diterapkan pada elemen yang sama, 
+    browser mengikuti urutan prioritas tertentu untuk menentukan gaya mana yang akan diterapkan. Urutan prioritas adalah sebagai berikut:
+    - Gaya Inline (prioritas tertinggi)
+    - Gaya Internal (prioritas menengah)
+    - Gaya Eksternal (prioritas terendah)
