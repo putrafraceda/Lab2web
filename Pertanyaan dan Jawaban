@@ -18,3 +18,8 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
     - Gaya Inline (prioritas tertinggi)
     - Gaya Internal (prioritas menengah)
     - Gaya Eksternal (prioritas terendah)
+    contoh ;
+    File CSS eksternal (styles.css) yang mendefinisikan h1 { color: green; }
+    Gaya internal yang mendefinisikan h1 { color: blue; }
+    Gaya inline yang mendefinisikan h1 { color: red; }
+4.
